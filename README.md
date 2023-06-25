@@ -10,6 +10,6 @@ Equipe:
 
 1. Lucas de França da Silva 
 
-2. Joaquin
+2. Joaquin Eiriz
 
 https://sites.google.com/view/projetopmihealthy/inicio
