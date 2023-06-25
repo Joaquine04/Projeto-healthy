@@ -1,4 +1,3 @@
-PROJETO-HEALTHY
 Nicho: Crianças (5 a 12)
 
 Proposta de valor: Gamificação de atividades físicas, alimentação saudável e leitura para gerar interesse das crianças.
